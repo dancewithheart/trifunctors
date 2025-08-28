@@ -1,4 +1,5 @@
-[![Build Status](https://github.com/dancewithheart/trifunctors/workflows/Haskell%20CI/badge.svg?branch=master)](https://github.com/dancewithheart/trifunctors/actions?query=workflow%3A%22Haskell+CI%22+branch%3Amaster)
+[![Build Status](https://github.com/dancewithheart/trifunctors/workflows/haskell.yml/badge.svg?branch=master)](https://github.com/dancewithheart/trifunctors/actions/workflows/haskell.yml?query=branch%3Amaster)
+
 
 # Trifunctors
 
