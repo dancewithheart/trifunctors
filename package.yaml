@@ -1,6 +1,6 @@
 name:                trifunctors
 version:             0.1.0.0
-github:              "lemastero/trifunctors"
+github:              "dancewithheart/trifunctors"
 license:             BSD3
 author:              "Piotr Paradzinski"
 maintainer:          "piotr.paradzinski@gmail.com"
@@ -17,10 +17,10 @@ extra-source-files:
 # To avoid duplicated efforts in documentation and dealing with the
 # complications of embedding Haddock markup inside cabal files, it is
 # common to point users to the README.md file.
-description:         Please see the README on GitHub at <https://github.com/lemastero/trifunctors#readme>
+description:         Please see the README on GitHub at <https://github.com/dancewithheart/trifunctors#readme>
 
 dependencies:
-- base >= 4.7 && < 5
+- base >= 4.13 && < 5
 
 library:
   source-dirs: src
